@@ -1,0 +1,49 @@
+<alimentos>
+    <alimento tipo="legumbre" estado="cocidos" cal="1090">Garbanzos</alimento>
+    <alimento tipo="legumbre" estado="estofadas" cal="690">Lentejas</alimento>
+    <alimento tipo="legumbre" estado="pintas" cal="885">Alubias</alimento>
+    <alimento tipo="legumbre" estado="secos" cal="346">Guisantes</alimento>
+    <alimento tipo="legumbre" estado="rehogadas" cal="100">Habas</alimento>
+    <alimento tipo="legumbre" estado="fabada" cal="1300">Judias</alimento>
+    <alimento tipo="verdura" estado="blancos" cal="15">Esparragos</alimento>
+    <alimento tipo="verdura" estado="asados" cal="55">Pimientos</alimento>
+    <alimento tipo="verdura" estado="parrilla" cal="28">Berenjenas</alimento>
+    <alimento tipo="verdura" estado="fritos" cal="71">Patatas</alimento>
+    <alimento tipo="verdura" estado="fresco" cal="9">Apio</alimento>
+    <alimento tipo="pescado" estado="fritos" cal="1180">Calamares</alimento>
+    <alimento tipo="pescado" estado="en aceite" cal="183">Anchoas</alimento>
+    <alimento tipo="pescado" estado="plancha" cal="97">Merluza</alimento>
+    <alimento tipo="pescado" estado="fresco" cal="145">Sardinas</alimento>
+    <alimento tipo="pescado" estado="en aceite" cal="214">Atun</alimento>
+    <alimento tipo="pescado" estado="ahumado" cal="210">Salmon</alimento>
+    <alimento tipo="aperitivo" estado="fritas" cal="1090">Almendras</alimento>
+    <alimento tipo="aperitivo" estado="rusa" cal="1090">Ensaladilla</alimento>
+    <alimento tipo="aperitivo" estado="caseras" cal="1090">Croquetas</alimento>
+    <alimento tipo="aperitivo" estado="rellenas" cal="1090">Aceitinas</alimento>
+    <alimento tipo="aperitivo" estado="chips" cal="1090">Patatas</alimento>
+    <alimento tipo="aperitivo" estado="cocidas" cal="1090">Gambas</alimento>
+    <alimento tipo="frutas" estado="fresco" cal="1090">Aguacate</alimento>
+    <alimento tipo="frutas" estado="fresco" cal="1090">Platano</alimento>
+    <alimento tipo="frutas" estado="fresco" cal="1090">Cerezas</alimento>
+    <alimento tipo="frutas" estado="fresco" cal="1090">Piña</alimento>
+    <alimento tipo="frutas" estado="fresco" cal="1090">Pera</alimento>
+    <alimento tipo="frutas" estado="fresco" cal="1090">Kiwi</alimento>
+    <alimento tipo="carne" estado="cocidos" cal="1090">Ternera</alimento>
+    <alimento tipo="carne" estado="cocidos" cal="1090">Cordero</alimento>
+    <alimento tipo="carne" estado="cocidos" cal="1090">Cochinillo</alimento>
+    <alimento tipo="carne" estado="cocidos" cal="1090">Cerdo</alimento>
+    <alimento tipo="carne" estado="cocidos" cal="1090">Pollo</alimento>
+    <alimento tipo="carne" estado="cocidos" cal="1090">Pato</alimento>
+    <alimento tipo="bebidas" estado="ron" cal="1090">Cubalibre</alimento>
+    <alimento tipo="bebidas" estado="negra" cal="1090">Cerveza</alimento>
+    <alimento tipo="bebidas" estado="solo" cal="1090">Whiski</alimento>
+    <alimento tipo="bebidas" estado="tinto" cal="1090">Vino</alimento>
+    <alimento tipo="bebidas" estado="brut" cal="1090">Cava</alimento>
+    <alimento tipo="bebidas" estado="con alcohol" cal="1090">Sngria</alimento>
+    <alimento tipo="varios" estado="cocidos" cal="1090">Rabiolis</alimento>
+    <alimento tipo="varios" estado="cocidos" cal="1090">Cañamones</alimento>
+    <alimento tipo="varios" estado="cocidos" cal="1090">Chocolate</alimento>
+    <alimento tipo="varios" estado="cocidos" cal="1090">Helado</alimento>
+    <alimento tipo="varios" estado="cocidos" cal="1090">Pizza</alimento>
+    <alimento tipo="varios" estado="cocidos" cal="1090">Pan</alimento>
+</alimentos>

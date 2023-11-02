@@ -1,0 +1,19 @@
+<!-- No escribo la declaracion por que se da por hecho en visual studio y tampoco escribo el DOCTYPE! 
+    por que no tengo ningun documento .dtd al que hacer referencia para valorar mi documento .xml -->
+
+<!--Primera forma de hacerlo -->
+
+<pedido>
+    <destinatario>Pedro Martin Martinez</destinatario>
+    <articulo>tablet Samsung Galaxy Tab A8</articulo>
+    <entrega>calle Virgen de la cruz 2, septimo piso, letra A</entrega>
+    <localidad>Toledo</localidad>
+    <fecha>17-10-2022</fecha>
+</pedido>
+
+<!--Segunda forma de hacerlo, en el caso de que hubiera mas pedidos -->
+
+<pedidos>
+<pedido destinatario="Pedro Martin Martinez" articulo="tablet Samsung Galaxy Tab A8" entrega="calle Virgen de la cruz 2, septimo piso, letra A"
+localidad="Toledo" fecha="17-10-2022"></pedido>
+</pedidos>
