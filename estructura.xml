@@ -1,0 +1,18 @@
+
+<mail>
+    <destinatario>
+        <nombre></nombre>
+        <mail></mail>
+    </destinatario>
+
+    <remitente>
+        <nombre></nombre>
+        <mail></mail>
+    </remitente>
+
+    <asunto></asunto>
+
+    <texto>
+        <parrafo></parrafo>
+    </texto>
+</mail>
