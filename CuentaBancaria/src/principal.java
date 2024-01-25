@@ -8,7 +8,7 @@ public class principal {
 		Scanner sc = new Scanner (System.in);
 		
 		cuentas c1 = new cuentas();
-		c1.setTitular("Jacinto");
+		c1.setTitular("Jacinto es el mejor");
 		System.out.println("Iban: "+c1.getIBAN());
 		System.out.println("Titular: "+c1.getTitular());
 		
